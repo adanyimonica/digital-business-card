@@ -1,1 +1,1 @@
-# digital-name-card
+# digital-business-card
